@@ -1,0 +1,2 @@
+model_checkpoint_path: "yolo_test-301125"
+all_model_checkpoint_paths: "yolo_test-301125"
